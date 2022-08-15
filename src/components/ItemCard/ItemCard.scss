@@ -1,0 +1,11 @@
+.ItemCard {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  width: 200px;
+  background-color: rgb(173, 194, 240);
+
+  p {
+    cursor: pointer;
+  }
+}
